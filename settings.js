@@ -26,7 +26,7 @@ global.packname = '𝚂𝚊𝚒𝚗𝚝⚛︎É𝚐𝚊𝚕𝚎⚔︎𝙳𝚎�
 global.author = 'MR RIPLEY'
 
 //console view/theme
-global.themeemoji = '🌹'
+global.themeemoji = '🌙'
 global.wm = "MR TOMAS RIPLEY"
 
 //theme link
